@@ -1,0 +1,42 @@
+.home-bg-container {
+  background-color: #152850;
+  min-height: 100vh;
+}
+
+.home-header-container {
+  height: 100px;
+  padding: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+.logout-btn {
+  background-color: transparent;
+  color: #ffffff;
+  border-style: solid;
+  border-color: #ffffff;
+  padding-left: 25px;
+  padding-right: 25px;
+  height: 40px;
+}
+
+.home-title {
+  color: #ffffff;
+  font-family: Roboto;
+  font-size: 50px;
+}
+
+.home-main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+}
+
+.digital-card {
+  height: 350px;
+}
